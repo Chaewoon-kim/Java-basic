@@ -1,4 +1,4 @@
-package poly.ex;
+package poly.ex.sender;
 
 public class SendMain {
     //Q. 다중 메세지 발송, 한 번에 여러 곳에서 메세지를 발송하는 프로그램
