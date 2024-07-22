@@ -1,7 +1,6 @@
 package poly.ex.pay1;
 
-
-// 1. 다형성 활용
 public interface Pay {
+    //코드 중복 줄이기
     boolean pay(int amount);
 }

@@ -1,6 +1,7 @@
 package poly.ex.pay0;
-
+//PayService 코드를 최적화하는 문제
 public class PayService {
+    //옵션과 돈의 액수를 매개변수로 받고 있는 processPay() 메서드
     public void processPay(String option , int amount){
         boolean result;
 

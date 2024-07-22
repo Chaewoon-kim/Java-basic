@@ -1,5 +1,5 @@
 package poly.ex.pay0;
-
+//Q. 해당 Main 코드를 유지하되 클래스나 인터페이스 추가 가능
 public class PayMain0 {
     public static void main(String[] args) {
         PayService payService = new PayService();
