@@ -1,3 +1,5 @@
+package review;
+
 public class ProductOrder1 {
     String productName;
     int price;

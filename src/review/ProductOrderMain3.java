@@ -1,3 +1,5 @@
+package review;
+
 public class ProductOrderMain3 {
     public static void main(String[] args) {
         ProductOrder1 [] orders = new ProductOrder1[3];
